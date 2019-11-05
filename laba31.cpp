@@ -11,7 +11,7 @@ int main(){
 	h = (b - a)/10;
 	x = a;
 	S = 0;
-	cout.precision(5);
+	cout.precision(7);
 	cout << setw(11) << left <<"x" << setw(11) << left << " S(x)"
 		 << setw(11) << left << "  Y(x)" << endl;
 	do{
